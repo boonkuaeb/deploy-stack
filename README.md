@@ -2,5 +2,5 @@
 
 
 ```
-docker stack deploy -c ./services/viz.yml viz
+docker stack deploy -c ./services/cadvisor.yml cadvisor
 ```
